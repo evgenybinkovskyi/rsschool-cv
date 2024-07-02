@@ -1,9 +1,13 @@
 # __[rsschool-cv](https://evgenybinkovskyi.github.io/rsschool-cv/)__
 
-# __Yevhen Binkovskyi__
+![ Yevhen Binkovskyi](/images/bg.jpg)
 
 ## __Contacts__ 
 - __Location:__ Krakow, Poland 
 - __Phone:__ +48756085322 
 - __Email:__ binkovskiievgenii94@gmail.com 
 - __GitHub:__ [evgenybinkovskyi](https://github.com/evgenybinkovskyi)
+
+## __About Me__
+Hello wandering traveler, my name is Evgeniy. I am exploring the world of web development, fortunately I have some perks in my luggage and my starting point, zeal, enthusiasm and an irresistible thirst for new knowledge of the magic of the web allows me to upgrade my skills many times faster and more practically. You will say that this is pure scam and cheating, but I will answer you that no, these are uncompleted hours of stages, skating rinks and tournaments in DOTA.
+ 
