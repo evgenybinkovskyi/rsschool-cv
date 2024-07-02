@@ -1,6 +1,8 @@
 # __[rsschool-cv](https://evgenybinkovskyi.github.io/rsschool-cv/)__
 
-![ Yevhen Binkovskyi](/images/bg.jpg)
+![background image](/images/bg.jpg)
+
+# __Yevhen Binkovskyi__
 
 ## __Contacts__ 
 - __Location:__ Krakow, Poland 
