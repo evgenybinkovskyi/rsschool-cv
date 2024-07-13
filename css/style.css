@@ -52,6 +52,10 @@ body {
     font-family: "Roboto";
 }
 
+body._lock {
+    overflow: hidden;
+}
+
 .wrapper {
     min-height: 100%;
     overflow: hidden;
